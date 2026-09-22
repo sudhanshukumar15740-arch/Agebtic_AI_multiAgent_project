@@ -1,0 +1,7 @@
+fastmcp
+fastapi
+uvicorn
+httpx
+sqlalchemy
+aiosqlite
+websockets
